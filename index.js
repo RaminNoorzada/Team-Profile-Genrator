@@ -1,7 +1,7 @@
 // node modules
 const inquirer = require('inquirer')
 const fs = require('fs')
-const generateTeam = require('./source/landing-page-template.js')
+const generateTeam = require('./source/landing-page-temp.js')
 
 //library (lib) module
 const engineer = require('./lib/engineer')
