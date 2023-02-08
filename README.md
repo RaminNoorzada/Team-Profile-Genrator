@@ -53,3 +53,6 @@ You can share you ideas and quistions about the project at the following address
 
 ramin.noorzada@gmail.com
 https://github.com/RaminNoorzada
+
+## Page Functionality:
+![Screenshot 2023-02-07 015240](https://user-images.githubusercontent.com/87600341/217436254-0bfa4e7d-632d-48c7-a4cf-94bc2427edcc.png)
